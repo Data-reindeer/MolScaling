@@ -1,5 +1,3 @@
-# README
-
 # Neural Scaling Law in Molecular Representation Learning
 
 This repository provides the source code for the paper **Uncovering Neural Scaling Law in Molecular Representation Learning**. 
