@@ -1,5 +1,0 @@
-# @package task
-optimizer_cls: torch.optim.AdamW
-optimizer_args:
-  lr: ${globals.lr}
-  weight_decay: 0.0

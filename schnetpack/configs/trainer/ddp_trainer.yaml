@@ -1,7 +1,0 @@
-defaults:
-  - default_trainer
-
-devices: 2
-accelerator: auto
-strategy: ddp
-num_nodes: 1
