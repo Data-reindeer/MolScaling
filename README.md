@@ -1,6 +1,6 @@
 # Neural Scaling Law in Molecular Representation Learning
 
-This repository provides the source code for the paper **Uncovering Neural Scaling Law in Molecular Representation Learning**. 
+This repository provides the source code for the paper **Uncovering Neural Scaling Law in Molecular Representation Learning**. We also provide a more detailed documentation [**MolScaling**](https://molscaling.readthedocs.io/) for new users to reproduce our results and build uopn our code, which includes detailed lists of dataset classes, model classes and easy-to-use tutorials, along with accompanying docstrings for each.
 
 ## Environments
 
@@ -30,7 +30,6 @@ pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -
 
 pip install -r requirements.txt
 ```
-
 
 
 ## Dataset Preparation
