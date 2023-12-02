@@ -93,3 +93,15 @@ Note that Uncertainty method includes two measurements: Entropy and Least Confid
 # Uncertainty:      [Entropy, LeastConfidence]
 python main_graph.py --finetune_ratio=0.1 --dataset=hiv --finetune_pruning --selection=Kmeans --uncertainty=Entropy
 ```
+
+## Cite Us
+
+Feel free to cite this work if you find it useful to you!
+```
+@article{chen2023uncovering,
+  title={Uncovering Neural Scaling Laws in Molecular Representation Learning},
+  author={Chen, Dingshuo and Zhu, Yanqiao and Zhang, Jieyu and Du, Yuanqi and Li, Zhixun and Liu, Qiang and Wu, Shu and Wang, Liang},
+  journal={arXiv preprint arXiv:2309.15123},
+  year={2023}
+}
+```
